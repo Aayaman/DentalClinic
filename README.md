@@ -2,7 +2,7 @@
 
 Welcome to SMDCMS, a Java-based console application built to simulate the operations of a mobile dental clinic — modular, efficient, and crafted with educational clarity in mind.
 
-##🛠️ Project Overview
+## 🛠️ Project Overview
 SMDCMS provides a dynamic menu-driven experience that lets users manage a dental clinic on the go. The system supports the creation and management of a Clinic object that includes:
 
 -🧑‍⚕️ One or More Dentists
@@ -11,7 +11,7 @@ SMDCMS provides a dynamic menu-driven experience that lets users manage a dental
 
 All individuals — dentists, assistants, and patients — are registered using their first name, last name, and unique ID.
 ___
-##📦 Program Structure
+## 📦 Program Structure
 ### `Individual` Class
 A foundational class representing a person in the system. It contains:
 - `firstName` (String)
@@ -47,5 +47,5 @@ ___
 - Charge Assignment for Patients
 - Simple Exit Condition
 ___
-##🚀 Why It Matters
+## 🚀 Why It Matters
 This system demonstrates how object-oriented principles like inheritance and encapsulation can be applied to real-world-style problems. It’s a practical tool for learning Java and a strong foundation for more complex system designs.
